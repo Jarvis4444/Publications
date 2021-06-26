@@ -4,7 +4,7 @@ Throughout the final year of my bachelors degree at Bournemouth University mysel
 The work was built upon [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) and their work on the [state of vulnerabilities](https://www.enisa.europa.eu/publications/technical-reports-on-cybersecurity-situation-the-state-of-cyber-security-vulnerabilities). You can find their more technical work on this specific publication at their [github](https://github.com/enisaeu/vuln-report).
 
 ## Sourced from ENISA's github
-This worked was made using the environment given to us by ENISA so follow the instructions below to use their envinonment but it should be noted that utility.py in the jupyter folder has been changed to include directories to other data so in order to use this efficiently you should use ENISA's environment but have seperate folders for both our work and their work! You also may find that you might need to change the directories below depending on how you download it.
+This worked was made using the environment given to us by ENISA so follow the instructions below to use their envinonment but it should be noted that utility.py in the jupyter folder has been changed to include directories to other data so in order to use this efficiently you should use ENISA's environment and have their work downloaded and make sure the directories in utility.py link to cwe.csv, techniques.csv, capec_2.csv.
 ### utility.py
 ```python
 CWE = pd.read_csv('../../data/enisa/offline_data/cwe.csv')
