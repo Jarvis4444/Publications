@@ -1,0 +1,139 @@
+Column Name / Sheet Name,Description,Source URL,Source Type,Data Type
+capec-list,Includes all CAPEC-IDs and Information that are related to our list of CVEs. - Used as a lookup,https://www.imd.org/smart-city-observatory/smart-city-index/,IMD Smart City Index,"Smart Cities,Smart City Data,Population"
+name,Name of the CAPEC.,https://media.iese.edu/research/pdfs/ST-0542-E.pdf,IESE Cities in Motion Index,"Cities-In-Motion,Cities-In-Motion  Data"
+domains_of_attack,The attack domain of the CAPEC.,https://www.imd.org/wcc/world-competitiveness-center-rankings/world-digital-competitiveness-rankings-2020/,IMD World Digital Competitiveness,"Overall Ranking, Factor Numbers"
+mechanisms_of_attack,The mechanisms of attack of the CAPEC.,https://www.c40.org/researches/municipality-led-circular-economy,C40,Circular Cities Data
+attack_likelihood,The attack likelihood.,https://cve.mitre.org/ ,CVE,CVE Data
+typical_severity,The severity of attack.,https://nvd.nist.gov/,NVD,"CVSS, CPE and CWE Data, Exploit Data"
+skills_required,The skills required to carry out the attack.,https://cwe.mitre.org/,CWE,CAPEC Data
+consequences_confidentiality,Consequences to confidentiality.,https://www.shodan.io/,Shodan.io,"CVE Data,Exposure Numbers,Products,Devices,Tags"
+consequences_integrity,Consequences to integrity.,https://owasp.org/,OWASP,Exploit Data
+consequences_availability,Consequences to availability.,https://www.cvedetails.com/,CVE Details,CVE Data
+consequences_access_control,Consequences to access control.,https://www.securityfocus.com/,SecurityFocus,CVE Data
+consequences_authorization,Consequences to authorization.,https://security.netapp.com/,NetApp,CVE Data
+consequences_accountability,Consequences to acountability.,https://simplesamlphp.org/,SimpleSAMLphp,CVE Data
+consequences_authentication,Consequences to authentication.,https://seclists.org/,SecList.org,CVE Data
+consequences_non_repudiation,Consequences to non repudiation.,https://worldpopulationreview.com/,World Population Review,Population Data
+linked_att&ck_tech_id,ATT&CK data linked to CAPEC.,https://www.macrotrends.net/,macrotrends,Population Data
+linked_att&ck_sub_tech_id,ATT&CK data linked to CAPEC.,https://www.worldometers.info/,worldometer,Population Data
+linked_att&ck_tactics,ATT&CK data linked to CAPEC.,http://citypopulation.de/,City Population,Population Data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,http://population.city/,Population.City,Population Data
+cves,Includes all Information related to our list of CVEs,https://www.wikipedia.org/,Wikipedia,Population Data
+vulnerability,CVE-ID.,https://www.h2020smile.eu/,Smile,Population Data
+totalcount,Total number of devices indexed by Shodan vulnerable to a specific vulnerability.,https://www.un.org/en/,United Nations,Population Data
+exploit_type,Data relating to the exploit used for a specific vulnerability.,https://www.abs.gov.au/,Australian Bureau of Statistics,Population Data
+exploit_platform,Data relating to the exploit used for a specific vulnerability.,https://www.ssb.no/en,Statistics Norway,Population Data
+exploit_vendor,Data relating to the exploit used for a specific vulnerability.,https://www.livepopulation.com/,Population of the world,Population Data
+exploit_attack,Data relating to the exploit used for a specific vulnerability.,https://www.indexmundi.com/,index mundi,"Population Data, Gini Values"
+logical_att&ck_techniques_id,Logically chosen ATT&CK data. ,,,
+logical_att&ck_tactic,Logically chosen ATT&CK data. ,Data,Start Capture Date,End Capture Date
+cwe,CWE-ID.,"CVEs, Devices, Tags, Ports",15/02/2021,15/02/2021
+cpe,CPE Information,Countries,16/02/2021,18/02/2021
+capec,CAPEC-ID(s).,Cities,19/02/2021,20/02/2021
+vulnerable_cities,Cities on a top 10 list that are exposed to the specific CVE-ID.,Protocols,20/02/2021,20/02/2021
+vulnerable_services,Services on a top 10 list that are exposed to the specific CVE-ID.,,,
+cvss3_basescore,The CVE's CVSS v3 base score.,Convention,Convention Meaning,
+cvss3_severity,The CVE's CVSS v3 severity level.,N/A,Data is not applicable. Either not found or no answer was provided. ,
+cvss3_impactscore,The CVE's CVSS v3 impact score.,,,
+cvss3_exploitabilityscore,The CVE's CVSS v3 exploitability score.,,,
+cvss3_attackvector,The CVE's CVSS v3 attack vector.,,,
+cvss3_attackcomplexity,The CVE's conditions that are beyond the attacker's control which must exist in order to exploit the CVE.,,,
+cvss3_privilegesrequired,The level of privileges that the attacker must possess before being able to successfully exploit the CVE.,,,
+cvss3_userinteraction,"Whether or not a user, other than the attacker, must perform a specific activity to allow the attacker to successfully exploit the CVE.",,,
+cvss3_scope,Whether or not the CVE will impact resources beyond it's means or privileges.,,,
+cvss3_confidentiality ,Measures the impact on the confidentiality of the data if the CVE was successfully exploited.,,,
+cvss3_integrity,Measures the impact on the integrity of the data if the CVE was successfully exploited.,,,
+cvss3_availability,Measures the impact on the availability of the data if the CVE was successfully exploited.,,,
+cvss2_basescore,The CVE's CVSS v2 base score.,,,
+cvss2_severity,The CVE's CVSS v2 severity level.,,,
+cvss2_impactscore,The CVE's CVSS v2 impact score.,,,
+cvss2_exploitabilityscore,The CVE's CVSS v2 exploitability score.,,,
+cvss2_attackvector,The CVE's CVSS v2 attack vector.,,,
+cvss2_attackcomplexity,The CVE's CVSS v2 access complexity.,,,
+cvss2_authentication,The CVE's CVSS v2 authentication.,,,
+cvss2_confidentiality ,The CVE's CVSS v2 confidentiality.,,,
+cvss2_integrity,The CVE's CVSS v2 integrity.,,,
+cvss2_availability,The CVE's CVSS v2 availability.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+cities,Includes all information regarding cities.,,,
+city,The name of the city.,,,
+city_type,The type of city. ,,,
+% of respondents who are willing to conceded personal data in order to improve traffic congestion,Questionnaire responses from the Smart City Index.,,,
+% of respondents who are comfortable with face recognition technologies to lower crime,Questionnaire responses from the Smart City Index.,,,
+% of respondents who feel the availability of online information has increased their trust in authorities,Questionnaire responses from the Smart City Index.,,,
+% of day-to-day payment transactions that re non-cash,Questionnaire responses from the Smart City Index.,,,
+population_2020,Population of the city.,,,
+overall_rating,Overall rating from the Smart City Index.,,,
+overall_ranking,Overall Ranking from the Smart City Index.,,,
+country,Country that the city resides in.,,,
+countrycode,The country code for the country that the city resides in.,,,
+cities_in_motion,Overall rating from the Cities In Motion Index.,,,
+economy,Factor from the Cities In Motion Index.,,,
+human_capital,Factor from the Cities In Motion Index.,,,
+social_cohesion,Factor from the Cities In Motion Index.,,,
+environment,Factor from the Cities In Motion Index.,,,
+goverance,Factor from the Cities In Motion Index.,,,
+urban_planning,Factor from the Cities In Motion Index.,,,
+international_outreach,Factor from the Cities In Motion Index.,,,
+technology,Factor from the Cities In Motion Index.,,,
+mobility_and_transportation,Factor from the Cities In Motion Index.,,,
+totalcount,Total number of devices in a specific city vulnerable to a specific vulnerability.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+countries,Includes all information regarding countries.,,,
+country_code,The 2 letters that are assigned to represent a specific country using ISO 3166-1 alpha-2 codes.,,,
+country,Country name.,,,
+population_2020,Population for the country.,,,
+overall_performance,Overall rating from the IMD World Digital Competitiveness Index.,,,
+factor_knowledge,The overall score for the knowledge factor.,,,
+factor_technology,The overall score for the technology factor.,,,
+factor_future_readiness,The overall score for the future readiness factor.,,,
+subfact_know_talent,The overall score for knowledge sub factor talent.,,,
+subfact_know_training_education,The overall score for knowledge sub factor training and education.,,,
+subfact_know_scientific_concentration,The overall score for knowledge sub factor scientific concentration.,,,
+subfact_tech_regulatory_framework,The overall score for technology sub factor regulatory framework.,,,
+subfact_tech_capital,The overall score for technology sub factor capital.,,,
+subfact_tech_technological_framework,The overall score for technology sub factor technological framework.,,,
+subfact_fr_adaptive_attitudes,The overall score for future readiness sub factor adaptive attitudes.,,,
+subfact_fr_business_agility,The overall score for future readiness sub factor business agility.,,,
+subfact_fr_it_integration,The overall score for future readiness sub factor IT integration.,,,
+gini_value,The specific country's gini coefficient value.,,,
+gini_year,The specific country's gini coefficient year.,,,
+totalcount,Total number of devices in a specific country vulnerable to a specific vulnerability.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+protocols,Includes all the information regarding the Protocols that are vulnerable to our list of CVEs.,,,
+description,A short description of the protocol.,,,
+totalcount,The number of devices running a specific protocol vulnerable to a specific vulnerability.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+operating-systems,Includes all the information regarding the Operating Systems that are vulnerable to our list of CVEs.,,,
+operating_system,The name of the operating system that is vulnerable to one or more specific CVEs.,,,
+totalcount,The number of total vulnerable devices running the specific OS according to Shodan.io.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+ports,Includes all the information regarding the ports opened on devices that are vulnerable to our list of CVEs.,,,
+port,A String version of the integer port number for data analytics purposes.,,,
+port_number,The port number.,,,
+totalcount,The number of devices that have the specific port opened that is vulnerable to our specific CVEs according to Shodan.io.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+tags,Includes all the information regarding the tags assigned to the devices that are vulnerable to our list of CVEs.,,,
+shodan_tag,The tag that is associated with our specific CVEs to help make the devices vulnerable more identifiable.,,,
+totalcount,The number of devices that have the specific tag associated with our specific CVEs according to Shodan.io.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+products,Includes all the information regarding the products and services that are vulnerable to our list of CVEs.,,,
+shodan_product,The product or service that is vulnerable to our specific CVEs.,,,
+description,A one word description defining what the service or product is or does.,,,
+totalcount,The number of products or services that are vulnerable to our pecific CVEs according to Shodan.io.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+devices,Includes all the information regarding the device types that are vulnerable to our list of CVEs.,,,
+shodan_device,The type of device that is vulnerable to our specific CVEs.,,,
+totalcount,The number devices exposed to our list of CVEs with a specific device tag.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
+--------------------------------------,-----------------------------------------------------------------------------------------------------------------------------,,,
+historical-numbers,Includes fortnightly captured information on the number of devices vulnerable to our specific CVEs.,,,
+capture_date,The date that the specific piece of information is captured.,,,
+vulnerabilities,The next 300+ rows are the specific CVEs starting from CVE-2017-1000369 to MS17-010.,,,
