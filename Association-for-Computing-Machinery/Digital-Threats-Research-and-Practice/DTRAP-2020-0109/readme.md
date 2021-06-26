@@ -4,7 +4,13 @@ Throughout the final year of my bachelors degree at Bournemouth University mysel
 The work was built upon [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) and their work on the [state of vulnerabilities](https://www.enisa.europa.eu/publications/technical-reports-on-cybersecurity-situation-the-state-of-cyber-security-vulnerabilities). You can find their more technical work on this specific publication at their [github](https://github.com/enisaeu/vuln-report).
 
 ## Sourced from ENISA's github
-as
+This worked was made using the environment given to us by ENISA so follow the instructions below to use their envinonment but it should be noted that utility.py in the jupyter folder has been changed to include directories to other data so in order to use this efficiently you should use ENISA's environment but have seperate folders for both our work and their work!
+```python
+CWE = pd.read_csv('../../data/enisa/offline_data/cwe.csv')
+TECH = pd.read_csv('../../data/enisa/offline_data/techniques.csv', encoding ='latin1')
+CAPEC = pd.read_csv('../../data/enisa/offline_data/capec_2.csv', encoding ='latin1')
+```
+
 ### 1. Install Anaconda
 
 Visit the [Anaconda website](https://www.anaconda.com/distribution/) and download the Anaconda installer for your OS (Python 3.7 version).
