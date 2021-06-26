@@ -1,0 +1,1 @@
+The script that gathers the exposure numbers for cities is stored within the cities-input folder. This script needs to be run from within this directory for the bash script to be able to use the cities input and CVE list.
