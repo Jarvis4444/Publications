@@ -5,6 +5,9 @@ The work was built upon [European Union Agency for Cybersecurity (ENISA)](https:
 
 ## Sourced from ENISA's github
 This worked was made using the environment given to us by ENISA so follow the instructions below to use their envinonment but it should be noted that utility.py in the jupyter folder has been changed to include directories to other data so in order to use this efficiently you should use ENISA's environment and have their work downloaded and make sure the directories in utility.py link to cwe.csv, techniques.csv, capec_2.csv.
+
+I have also uploaded a folder labelled "vuln-report" which came directly off the my Ubuntu VM so if you have correctly installed Anaconda, Jupyter Lab extensions and are youing the enisa environment then this folder should work straight out of the box!
+
 ### utility.py
 ```python
 CWE = pd.read_csv('../../data/enisa/offline_data/cwe.csv')
