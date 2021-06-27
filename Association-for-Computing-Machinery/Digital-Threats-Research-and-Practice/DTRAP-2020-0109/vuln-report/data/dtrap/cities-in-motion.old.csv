@@ -1,0 +1,165 @@
+city,country,economy,human_capital,social_cohesion,environment,goverance,urban_planning,international_outreach,technology,mobility_and_transportation,cities_in_motion
+New York,United States,1,4,109,99,38,1,3,5,4,1
+London,United Kingdom,4,1,68,40,5,7,2,6,2,2
+Paris,France,7,8,87,49,43,3,1,12,1,3
+Tokyo,Japan,2,5,48,11,40,32,17,27,22,4
+Reykjavik,Iceland,27,83,47,1,27,66,121,7,7,5
+Singapore,Singapore,13,39,90,10,8,39,5,2,63,6
+Seoul,South Korea,15,11,38,25,22,40,20,10,3,7
+Toronto,Canada,28,24,28,55,4,2,25,16,68,8
+Hong Kong,China,19,12,147,21,16,10,16,1,87,9
+Amsterdam,Netherlands,36,46,26,36,23,13,6,3,13,10
+Berlin,Germany,66,7,3,54,14,49,4,33,6,11
+Melbourne,Australia,34,18,8,26,2,19,10,48,38,12
+Copenhagen,Denmark,12,54,23,3,13,90,32,20,43,13
+Chicago,United States,10,10,96,127,46,5,9,28,42,14
+Sydney,Australia,35,15,20,22,26,17,21,8,76,15
+Stockholm,Sweden,5,55,64,8,19,45,36,25,44,16
+Los Angeles,United States,3,2,79,144,7,23,11,38,112,17
+Wellington,New Zealand,22,85,15,2,25,14,132,62,15,18
+Vienna,Austria,72,31,36,18,18,41,8,23,14,19
+Washington,United States,11,6,72,128,21,12,49,32,41,20
+Boston,United States,14,3,61,118,12,30,55,39,77,21
+Helsinki,Finland,32,57,1,12,6,61,50,55,67,22
+Oslo,Norway,17,62,21,13,51,48,64,24,78,23
+Zurich,Switzerland,24,40,4,24,9,97,62,31,75,24
+Madrid,Spain,64,34,53,50,34,37,19,21,9,25
+Barcelona,Spain,78,37,86,66,15,16,14,15,12,26
+San Francisco,United States,6,13,75,110,70,28,41,14,98,27
+Auckland,New Zealand,18,87,27,14,52,27,70,65,69,28
+Bern,Switzerland,47,72,2,73,1,108,131,107,31,29
+Dublin,Ireland,16,80,22,35,45,75,44,17,100,30
+Hamburg,Germany,57,27,33,67,31,44,48,53,11,31
+Geneva,Switzerland,31,70,25,68,3,93,80,13,54,32
+Göteborg,Sweden,21,64,62,19,32,76,104,73,20,33
+Basel,Switzerland,44,59,5,41,11,100,58,70,18,34
+Ottawa,Canada,52,38,14,59,10,8,109,78,71,35
+Vancouver,Canada,42,45,37,78,35,4,43,44,105,36
+Munich,Germany,38,42,9,72,67,72,42,69,8,37
+Montreal,Canada,51,51,39,63,24,9,23,118,80,38
+Houston,United States,8,17,59,146,44,25,29,29,107,39
+Prague,Czech Republic,82,61,31,23,60,94,27,18,66,40
+Dallas,United States,9,19,81,134,57,55,45,66,104,41
+Frankfurt,Germany,45,32,67,93,81,29,34,94,29,42
+Rotterdam,Netherlands,75,58,18,56,82,11,92,61,21,43
+Lyon,France,43,60,45,52,63,38,67,101,36,44
+Milan,Italy,69,35,92,57,104,47,46,71,16,45
+Philadelphia,United States,20,14,93,143,62,42,59,63,85,46
+San Diego ,United States,25,23,80,136,17,53,73,19,113,47
+Brussels,Belgium,65,95,69,47,71,59,53,45,19,48
+Riga,Latvia,84,78,78,5,72,24,106,49,47,49
+Tallinn,Estonia,83,84,54,4,96,26,126,30,59,50
+Miami,United States,29,20,107,132,89,46,22,46,90,51
+Lisbon,Portugal,88,66,77,9,74,95,33,41,93,52
+Budapest,Hungary,110,52,101,17,64,70,35,34,65,53
+Cologne,Germany,67,47,19,98,37,118,54,60,55,54
+Stuttgart,Germany,49,53,13,64,68,113,79,116,45,55
+Osaka,Japan,41,49,60,30,83,104,74,96,84,56
+Shanghai,China,60,16,148,149,30,56,26,52,5,57
+Birmingham,United Kingdom,53,22,29,74,41,63,98,90,116,58
+Manchester,United Kingdom,56,21,30,104,58,82,65,75,108,59
+Dubai,United Arab Emirates,54,130,44,151,33,112,13,4,102,60
+Vilnius,Lithuania,91,68,98,16,39,52,114,84,40,61
+San Antonio,United States,23,26,84,133,97,57,101,42,79,62
+Valencia,Spain,98,97,50,43,20,60,112,74,25,63
+Warsaw,Poland,108,65,58,83,50,15,30,114,58,64
+Eindhoven,Netherlands,58,73,7,113,49,21,162,51,60,65
+Rome,Italy,76,50,120,107,69,129,15,50,23,66
+Bratislava,Slovakia,74,81,16,32,42,64,90,131,91,67
+Glasgow,United Kingdom,59,36,35,75,56,91,69,67,119,68
+Antwerp,Belgium,80,99,32,45,117,33,123,85,17,69
+Moscow,Russia,105,9,146,101,36,22,51,80,70,70
+Nagoya,Japan,46,56,40,20,73,102,133,109,118,71
+Tel Aviv,Israel,48,116,76,38,79,31,103,37,110,72
+Linz,Austria,73,76,6,37,75,107,157,98,46,73
+Ljubljana,Slovenia,89,96,17,34,111,73,111,43,56,74
+Phoenix,United States,37,33,70,138,94,65,115,92,37,75
+Buenos Aires,Argentina,151,43,94,33,29,18,24,126,96,76
+Baltimore,United States,33,28,97,139,47,51,105,86,99,77
+Beijing,China,50,29,129,160,76,111,12,57,10,78
+Nice,France,71,63,55,69,90,85,87,81,82,79
+Marseille,France,63,82,88,87,78,68,75,122,49,80
+Leeds,United Kingdom,62,30,24,91,53,96,146,106,140,81
+Liverpool,United Kingdom,61,48,10,116,59,103,127,95,122,82
+Zagreb,Croatia,126,108,43,27,55,80,119,56,94,83
+Lille,France,70,88,66,84,120,77,83,123,39,84
+Seville,Spain,116,98,74,77,105,20,95,105,33,85
+Santiago,Chile,122,91,91,28,107,62,78,77,72,86
+Kuala Lumpur,Malaysia,81,120,115,85,102,99,40,79,48,87
+Porto,Portugal,106,126,83,15,112,98,38,130,120,88
+Málaga,Spain,123,107,51,89,85,83,99,87,26,89
+Bangkok,Thailand,77,123,102,135,136,50,7,59,114,90
+Duisburg,Germany,86,67,11,109,113,123,100,144,51,91
+Palma de Mallorca,Spain,99,114,82,96,88,71,96,47,50,92
+Zaragoza,Spain,102,93,71,106,101,67,130,82,28,93
+Panama City,Panama,79,75,110,42,126,121,72,36,125,94
+Murcia,Spain,100,110,56,111,93,43,156,104,24,95
+Nottingham,United Kingdom,68,41,34,119,65,105,160,93,136,96
+Abu Dhabi ,United Arab Emirates,26,149,12,162,87,131,71,9,64,97
+Florence,Italy,92,77,100,126,135,125,85,22,30,98
+Valladolid,Spain,113,102,73,51,95,81,159,129,53,99
+Montevideo,Uruguay,131,136,117,7,54,78,97,83,129,100
+Sofia,Bulgaria,128,79,95,79,61,138,108,68,73,101
+San José,Costa Rica,107,152,108,6,28,135,89,91,153,102
+Bilbao,Spain,96,105,85,103,84,86,137,100,92,103
+Vigo,Spain,117,117,63,48,123,79,154,124,74,104
+A Coruña,Spain,111,113,89,70,128,58,161,120,52,105
+Turin,Italy,101,71,106,123,110,92,124,111,34,106
+Mexico City,Mexico,94,44,116,147,91,54,37,146,86,107
+Minsk,Belarus,150,74,42,46,131,110,102,125,81,108
+Guangzhou,China,55,92,121,152,119,124,56,110,27,109
+Belgrade,Serbia,130,106,140,31,99,89,84,97,97,110
+Doha,Qatar,30,145,46,158,124,117,88,11,126,111
+Tbilisi,Georgia,104,125,125,39,100,130,116,108,103,112
+Kiev,Ukraine,148,86,157,121,103,6,60,76,83,113
+Istanbul,Turkey,87,118,155,124,139,106,18,26,124,114
+Shenzhen,China,39,104,135,150,137,143,66,121,32,115
+São Paulo,Brazil,155,103,145,90,121,34,28,72,88,116
+Bogota,Colombia,124,90,143,62,48,136,68,103,151,117
+Almaty,Kazakhstan,146,121,49,100,147,84,152,115,35,118
+Naples,Italy,119,89,114,105,144,88,94,136,101,119
+Ankara,Turkey,125,100,111,137,127,87,117,112,57,120
+Jerusalem,Israel,95,131,139,53,66,128,120,119,141,121
+Athens,Greece,135,69,160,61,146,109,52,40,89,122
+Saint Petersburg,Russia,137,25,137,125,92,115,61,113,127,123
+Ho Chi Minh City,Vietnam,109,150,119,76,133,137,77,127,111,124
+Skopje,Macedonia,112,148,133,81,109,122,147,99,117,125
+Rio de Janeiro,Brazil,160,94,154,102,77,36,47,88,133,126
+Baku,Azerbaijan,141,112,127,60,153,142,135,89,106,127
+Kuwait City,Kuwait,93,153,65,142,108,154,118,35,130,128
+Medellín,Colombia,132,128,124,71,116,126,113,153,121,129
+Rosario,Argentina,158,122,57,114,141,35,144,141,123,130
+Lima,Peru,115,111,130,122,86,146,81,143,158,131
+Sarajevo,Bosnia and Herzegovina,153,115,151,95,130,69,143,135,62,132
+Tunis,Tunisia,136,146,113,58,129,140,139,149,146,134
+Curitiba,Brazil,161,139,123,65,132,116,122,117,109,135
+Jakarta,Indonesia,114,133,126,140,114,153,31,132,164,136
+Cali,Colombia,139,135,99,80,122,133,153,160,148,137
+Brasilia,Brazil,163,138,144,82,125,127,91,142,61,138
+Amman,Jordan,145,157,103,115,106,149,138,64,160,139
+Quito,Ecuador,157,127,105,88,160,132,107,133,128,140
+Guatemala City,Guatemala,144,162,118,44,134,157,93,158,142,141
+Novosibirsk,Russia,142,119,128,131,118,141,129,148,138,142
+Cape Town,South Africa,143,134,156,117,98,148,76,138,155,143
+Manama,Bahrain,90,142,41,159,145,165,151,58,95,144
+Santa Cruz,Bolivia,140,143,152,29,158,156,155,150,137,145
+Manila,Philippines,121,141,122,153,143,152,39,147,162,146
+Salvador,Brazil,164,129,142,86,140,120,134,152,132,147
+Casablanca,Morocco,134,164,131,130,159,150,110,102,147,148
+Tianjin,China,40,109,134,165,150,139,150,134,115,149
+Guayaquil,Ecuador,159,144,104,92,161,144,149,157,152,150
+Belo Horizonte,Brazil,162,132,136,120,142,134,136,140,149,151
+La Paz,Bolivia,152,147,149,94,148,147,141,162,145,152
+Riyadh Saudi,Arabia,85,155,112,164,80,158,128,54,135,153
+Santo Domingo,Dominican Republic,97,161,164,145,155,114,125,151,134,154
+Rabat,Morocco,147,158,150,112,157,151,158,155,156,155
+Johannesburg,South Africa,149,140,161,141,115,145,148,145,143,156
+Cairo,Egypt,129,137,158,154,162,119,86,128,159,157
+Mumbai,India,127,154,138,156,138,160,57,137,161,158
+New Delhi,India,103,151,141,163,149,163,63,156,154,159
+Douala,Cameroon,138,156,132,97,164,159,165,163,144,160
+Nairobi,Kenya,120,160,162,148,154,155,140,159,163,161
+Caracas,Venezuela,165,101,159,129,156,101,82,165,139,162
+Kolkata,India,133,165,153,157,151,161,142,161,165,163
+Lagos,Nigeria,154,159,163,155,165,162,164,164,157,164
+Karachi,Pakistan,118,163,165,161,163,164,163,154,150,165

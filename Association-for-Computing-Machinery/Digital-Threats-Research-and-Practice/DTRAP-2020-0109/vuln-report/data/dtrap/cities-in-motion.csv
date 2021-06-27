@@ -1,0 +1,175 @@
+city,country,cities_in_motion,economy,human_capital,social_cohesion,environment,goverance,urban_planning,international_outreach,technology,mobility_and_transportation,cities_in_motion_index
+London,United Kingdom,1,14,1,64,35,2,2,1,6,3,IESE Cities in Motion Index 2020
+New York,USA,2,1,3,151,69,30,1,6,8,1,IESE Cities in Motion Index 2020
+Paris,France,3,13,6,74,48,44,12,2,20,2,IESE Cities in Motion Index 2020
+Tokyo,Japan,4,3,9,51,6,26,23,30,22,56,IESE Cities in Motion Index 2020
+Reykjavík,Iceland,5,86,22,14,1,25,125,16,58,57,IESE Cities in Motion Index 2020
+Copenhagen,Denmark,6,19,46,13,2,7,81,18,21,29,IESE Cities in Motion Index 2020
+Berlin,Germany,7,59,5,73,42,15,36,9,18,4,IESE Cities in Motion Index 2020
+Amsterdam,Netherlands,8,26,43,50,24,32,24,5,14,11,IESE Cities in Motion Index 2020
+Singapore,Singapore,9,41,38,28,7,22,21,3,2,55,IESE Cities in Motion Index 2020
+Hong Kong,China,10,30,13,111,19,17,35,4,1,71,IESE Cities in Motion Index 2020
+Zurich,Switzerland,11,21,33,2,27,4,74,20,24,46,IESE Cities in Motion Index 2020
+Oslo,Norway,12,15,54,24,10,14,73,22,31,35,IESE Cities in Motion Index 2020
+Chicago,USA,13,8,10,135,136,46,3,19,17,38,IESE Cities in Motion Index 2020
+Stockholm,Sweden,14,35,48,70,5,23,61,28,7,15,IESE Cities in Motion Index 2020
+Washington,USA,15,6,7,98,142,18,9,49,11,49,IESE Cities in Motion Index 2020
+Los Angeles,USA,16,2,2,96,154,9,19,33,15,125,IESE Cities in Motion Index 2020
+Sydney,Australia,17,29,16,30,23,24,33,7,39,95,IESE Cities in Motion Index 2020
+Vienna,Austria,18,69,20,57,15,49,41,8,45,7,IESE Cities in Motion Index 2020
+Seoul,South Korea,19,11,14,68,41,36,31,36,26,34,IESE Cities in Motion Index 2020
+San Francisco,USA,20,4,11,106,128,68,17,35,3,60,IESE Cities in Motion Index 2020
+Basel,Switzerland,21,18,45,1,37,16,109,60,42,30,IESE Cities in Motion Index 2020
+Helsinki,Finland,22,32,53,8,9,6,52,47,86,50,IESE Cities in Motion Index 2020
+Wellington,New Zealand,23,28,63,6,4,13,34,83,30,80,IESE Cities in Motion Index 2020
+Munich,Germany,24,36,57,11,77,42,59,21,28,6,IESE Cities in Motion Index 2020
+Madrid,Spain,25,66,41,38,53,55,30,11,49,5,IESE Cities in Motion Index 2020
+Barcelona,Spain,26,80,42,67,46,29,11,14,47,9,IESE Cities in Motion Index 2020
+Taipei,Taiwan,27,81,24,3,117,5,7,51,13,19,IESE Cities in Motion Index 2020
+Boston,USA,28,9,4,90,116,20,25,68,5,147,IESE Cities in Motion Index 2020
+Hamburg,Germany,29,44,28,65,59,27,43,50,37,12,IESE Cities in Motion Index 2020
+Toronto,Canada,30,38,32,59,55,19,8,25,57,93,IESE Cities in Motion Index 2020
+Bern,Switzerland,31,54,58,4,67,1,83,128,32,45,IESE Cities in Motion Index 2020
+Frankfurt,Germany,32,45,64,42,78,70,18,29,50,17,IESE Cities in Motion Index 2020
+Dublin,Ireland,33,16,103,39,28,79,106,27,55,76,IESE Cities in Motion Index 2020
+Geneva,Switzerland,34,27,79,29,68,3,124,17,27,88,IESE Cities in Motion Index 2020
+Auckland,New Zealand,35,31,95,26,16,34,65,44,43,103,IESE Cities in Motion Index 2020
+Lyon,France,36,61,26,32,62,33,47,54,66,26,IESE Cities in Motion Index 2020
+Melbourne,Australia,37,34,55,45,31,11,39,64,40,128,IESE Cities in Motion Index 2020
+Dallas,USA,38,7,12,108,133,66,49,74,52,73,IESE Cities in Motion Index 2020
+Prague,Czech Republic,39,88,37,22,30,35,90,23,79,44,IESE Cities in Motion Index 2020
+Montreal,Canada,40,56,60,44,56,40,13,45,98,63,IESE Cities in Motion Index 2020
+Brussels,Belgium,41,53,112,63,43,50,58,38,62,16,IESE Cities in Motion Index 2020
+Milan,Italy,42,71,39,87,65,104,29,34,82,14,IESE Cities in Motion Index 2020
+Ottawa,Canada,43,58,49,19,61,10,10,92,103,101,IESE Cities in Motion Index 2020
+Vancouver,Canada,44,50,93,36,70,69,5,58,69,90,IESE Cities in Motion Index 2020
+San Diego,USA,45,22,35,94,141,12,54,55,16,77,IESE Cities in Motion Index 2020
+Düsseldorf,Germany,46,49,84,23,33,100,112,53,67,18,IESE Cities in Motion Index 2020
+Edinburgh,United Kingdom,47,57,27,7,79,85,94,32,34,72,IESE Cities in Motion Index 2020
+Miami,USA,48,20,23,122,148,57,42,12,48,105,IESE Cities in Motion Index 2020
+Houston,USA,49,5,47,117,152,65,16,40,38,132,IESE Cities in Motion Index 2020
+Göteborg,Sweden,50,43,82,85,12,45,107,98,23,43,IESE Cities in Motion Index 2020
+Rotterdam,Netherlands,51,75,68,43,45,107,15,106,29,23,IESE Cities in Motion Index 2020
+Lisbon,Portugal,52,96,74,61,11,78,111,26,71,37,IESE Cities in Motion Index 2020
+Seattle,USA,53,10,61,99,146,28,51,65,9,111,IESE Cities in Motion Index 2020
+Warsaw,Poland,54,76,72,47,99,8,14,56,106,47,IESE Cities in Motion Index 2020
+Tallinn,Estonia,55,62,25,31,17,133,48,95,68,83,IESE Cities in Motion Index 2020
+Cologne,Germany,56,52,52,27,107,38,108,67,36,33,IESE Cities in Motion Index 2020
+Philadelphia,USA,57,12,18,127,134,51,37,89,25,118,IESE Cities in Motion Index 2020
+Shanghai,China,58,42,29,72,149,87,53,46,111,10,IESE Cities in Motion Index 2020
+Denver,USA,59,17,36,119,159,62,22,48,10,64,IESE Cities in Motion Index 2020
+Valencia,Spain,60,89,111,41,39,37,32,110,70,20,IESE Cities in Motion Index 2020
+Baltimore,USA,61,24,51,132,129,47,60,93,35,65,IESE Cities in Motion Index 2020
+Bratislava,Slovakia,62,97,31,9,32,31,45,111,138,74,IESE Cities in Motion Index 2020
+Stuttgart,Germany,63,87,66,20,71,88,92,88,46,28,IESE Cities in Motion Index 2020
+Osaka,Japan,64,39,73,88,21,117,79,112,61,87,IESE Cities in Motion Index 2020
+Vilnius,Lithuania,65,73,17,138,26,58,88,90,74,82,IESE Cities in Motion Index 2020
+Glasgow,United Kingdom,66,65,70,18,89,53,85,59,63,106,IESE Cities in Motion Index 2020
+Rome,Italy,67,78,40,118,119,63,121,13,88,40,IESE Cities in Motion Index 2020
+Santiago,Chile,68,103,97,80,29,94,40,62,94,42,IESE Cities in Motion Index 2020
+Phoenix,USA,69,23,19,124,140,76,71,102,41,100,IESE Cities in Motion Index 2020
+Tel Aviv,Israel,70,51,128,37,34,71,38,100,89,81,IESE Cities in Motion Index 2020
+Manchester,United Kingdom,71,55,50,58,105,80,69,78,44,79,IESE Cities in Motion Index 2020
+San Antonio,USA,72,25,44,107,138,64,55,86,75,99,IESE Cities in Motion Index 2020
+Birmingham,United Kingdom,73,60,59,89,80,60,57,94,59,85,IESE Cities in Motion Index 2020
+Budapest,Hungary,74,135,34,105,49,56,120,39,105,31,IESE Cities in Motion Index 2020
+Nagoya,Japan,75,63,90,52,13,106,87,137,56,113,IESE Cities in Motion Index 2020
+Antwerp,Belgium,76,121,100,33,73,82,20,114,54,36,IESE Cities in Motion Index 2020
+Eindhoven,Netherlands,77,68,89,21,103,61,67,138,19,86,IESE Cities in Motion Index 2020
+Palma de Mallorca,Spain,78,95,113,48,85,114,98,10,81,51,IESE Cities in Motion Index 2020
+Leeds,United Kingdom,79,64,69,16,86,75,84,139,65,75,IESE Cities in Motion Index 2020
+Linz,Austria,80,79,88,10,38,95,113,158,95,39,IESE Cities in Motion Index 2020
+Seville,Spain,81,102,94,81,64,89,46,96,100,32,IESE Cities in Motion Index 2020
+Málaga,Spain,82,107,99,55,82,108,99,61,101,21,IESE Cities in Motion Index 2020
+Nice,France,83,72,91,83,75,97,126,43,92,61,IESE Cities in Motion Index 2020
+Beijing,China,84,40,87,101,162,122,80,42,110,8,IESE Cities in Motion Index 2020
+Riga,Latvia,85,139,56,84,22,102,28,87,113,69,IESE Cities in Motion Index 2020
+Zaragoza,Spain,86,90,62,49,90,90,104,151,84,25,IESE Cities in Motion Index 2020
+Moscow,Russia,87,148,8,150,135,52,6,71,119,91,IESE Cities in Motion Index 2020
+Wrocław,Poland,88,93,81,60,100,98,56,131,116,27,IESE Cities in Motion Index 2020
+Quebec,Canada,89,110,76,12,76,21,91,121,128,108,IESE Cities in Motion Index 2020
+Buenos Aires,Argentina,90,166,65,139,25,41,26,31,114,123,IESE Cities in Motion Index 2020
+Nottingham,United Kingdom,91,70,83,25,122,81,101,126,53,116,IESE Cities in Motion Index 2020
+Dubai,United Arab Emirates,92,48,151,17,161,54,100,24,4,109,IESE Cities in Motion Index 2020
+Marseille,France,93,122,92,77,95,72,82,84,97,48,IESE Cities in Motion Index 2020
+Liverpool,United Kingdom,94,117,78,5,113,84,97,119,51,110,IESE Cities in Motion Index 2020
+Duisburg,Germany,95,131,85,35,108,112,144,63,72,54,IESE Cities in Motion Index 2020
+Athens,Greece,96,109,71,148,57,148,142,52,83,41,IESE Cities in Motion Index 2020
+Florence,Italy,97,99,21,114,132,127,131,70,91,52,IESE Cities in Motion Index 2020
+Zagreb,Croatia,98,126,105,71,36,39,130,127,93,94,IESE Cities in Motion Index 2020
+Ljubljana,Slovenia,99,138,101,40,50,91,115,125,73,92,IESE Cities in Motion Index 2020
+Porto,Portugal,100,111,116,54,18,101,157,73,102,119,IESE Cities in Motion Index 2020
+Lille,France,101,74,102,78,91,113,114,141,99,67,IESE Cities in Motion Index 2020
+A Coruña,Spain,102,92,96,69,60,140,77,162,87,68,IESE Cities in Motion Index 2020
+Bucharest,Romania,103,105,98,91,112,131,138,77,33,58,IESE Cities in Motion Index 2020
+Murcia,Spain,104,101,109,53,96,115,72,165,64,59,IESE Cities in Motion Index 2020
+Turin,Italy,105,98,80,86,137,109,134,107,108,24,IESE Cities in Motion Index 2020
+Kuala Lumpur,Malaysia,106,83,121,115,114,139,78,57,107,53,IESE Cities in Motion Index 2020
+Guangzhou,China,107,46,134,93,143,151,95,81,126,22,IESE Cities in Motion Index 2020
+Bilbao,Spain,108,91,117,62,87,118,93,113,78,96,IESE Cities in Motion Index 2020
+Shenzhen,China,109,37,144,104,131,159,127,122,121,13,IESE Cities in Motion Index 2020
+Montevideo,Uruguay,110,144,133,110,3,74,118,115,133,114,IESE Cities in Motion Index 2020
+Minsk,Belarus,111,124,86,76,58,103,123,154,104,84,IESE Cities in Motion Index 2020
+Bangkok,Thailand,112,125,129,116,121,152,27,15,109,117,IESE Cities in Motion Index 2020
+Panama,Panama,113,84,145,103,40,149,50,80,151,140,IESE Cities in Motion Index 2020
+San José,Costa Rica,114,123,155,112,14,77,132,101,132,144,IESE Cities in Motion Index 2020
+Kiev,Ukraine,115,133,104,160,123,93,4,117,152,124,IESE Cities in Motion Index 2020
+Sofia,Bulgaria,116,162,77,66,88,59,153,104,118,104,IESE Cities in Motion Index 2020
+Abu Dhabi,United Arab Emirates,117,33,161,15,169,83,137,79,12,127,IESE Cities in Motion Index 2020
+Tbilisi,Georgia,118,85,138,131,93,48,119,129,96,149,IESE Cities in Motion Index 2020
+Naples,Italy,119,116,108,130,111,145,110,108,117,98,IESE Cities in Motion Index 2020
+Bogotá,Colombia,120,112,110,162,92,43,155,75,124,122,IESE Cities in Motion Index 2020
+Jerusalem,Israel,121,129,136,152,51,67,152,66,115,143,IESE Cities in Motion Index 2020
+Belgrade,Serbia,122,113,106,143,83,124,162,103,77,138,IESE Cities in Motion Index 2020
+São Paulo,Brazil,123,137,123,156,102,121,76,41,139,126,IESE Cities in Motion Index 2020
+Saint Petersburg,Russia,124,168,30,128,155,73,44,82,122,137,IESE Cities in Motion Index 2020
+Doha,Qatar,125,47,164,34,166,147,105,76,76,142,IESE Cities in Motion Index 2020
+Medellín,Colombia,126,115,132,140,110,99,141,142,136,78,IESE Cities in Motion Index 2020
+Ho Chi Minh City,Vietnam,127,142,156,125,63,158,68,97,125,107,IESE Cities in Motion Index 2020
+Almaty,Kazakhstan,128,108,124,134,104,150,75,169,141,112,IESE Cities in Motion Index 2020
+Istanbul,Turkey,129,132,125,165,139,142,116,37,90,97,IESE Cities in Motion Index 2020
+Mexico City,Mexico,130,127,67,142,168,92,63,72,153,66,IESE Cities in Motion Index 2020
+Asunción,Paraguay,131,158,107,75,8,146,163,161,167,135,IESE Cities in Motion Index 2020
+Rio de Janeiro,Brazil,132,151,114,164,106,105,64,69,142,155,IESE Cities in Motion Index 2020
+Jakarta,Indonesia,133,154,15,145,125,125,103,91,123,174,IESE Cities in Motion Index 2020
+Rosario,Argentina,134,171,120,82,84,116,96,144,131,146,IESE Cities in Motion Index 2020
+Brasília,Brazil,135,146,150,155,74,120,150,124,145,62,IESE Cities in Motion Index 2020
+Ankara,Turkey,136,153,115,97,144,136,117,146,130,115,IESE Cities in Motion Index 2020
+Santo Domingo,Dominican Republic,137,120,169,154,44,144,62,140,155,159,IESE Cities in Motion Index 2020
+Curitiba,Brazil,138,156,148,147,52,143,135,148,148,89,IESE Cities in Motion Index 2020
+Córdoba,Argentina,139,167,127,100,72,130,147,147,134,156,IESE Cities in Motion Index 2020
+Baku,Azerbaijan,140,149,122,123,98,160,122,135,146,148,IESE Cities in Motion Index 2020
+Skopje,North Macedonia,141,160,149,113,115,111,160,149,127,129,IESE Cities in Motion Index 2020
+Quito,Ecuador,142,164,126,56,97,166,151,116,157,139,IESE Cities in Motion Index 2020
+Cape Town,South Africa,143,150,140,171,130,96,66,105,140,162,IESE Cities in Motion Index 2020
+Kuwait City,Kuwait,144,169,158,92,150,135,139,118,60,136,IESE Cities in Motion Index 2020
+Cali,Colombia,145,118,130,146,118,132,169,160,143,152,IESE Cities in Motion Index 2020
+Bangalore,India,146,82,131,141,165,119,128,109,159,169,IESE Cities in Motion Index 2020
+La Paz,Bolivia,147,155,152,126,66,155,140,150,166,154,IESE Cities in Motion Index 2020
+Tianjin,China,148,67,139,79,172,161,129,166,137,70,IESE Cities in Motion Index 2020
+Amman,Jordan,149,140,172,120,120,129,158,130,154,165,IESE Cities in Motion Index 2020
+Santa Cruz,Bolivia,150,152,146,109,20,172,170,164,164,157,IESE Cities in Motion Index 2020
+Johannesburg,South Africa,151,147,142,172,153,126,70,120,135,158,IESE Cities in Motion Index 2020
+Tunis,Tunisia,152,163,153,136,81,141,166,153,150,151,IESE Cities in Motion Index 2020
+Sarajevo,Bosnia,153,173,75,153,126,164,156,159,129,120,IESE Cities in Motion Index 2020
+Nairobi,Kenya,154,119,167,167,54,123,86,143,169,173,IESE Cities in Motion Index 2020
+Lima,Peru,155,143,135,129,147,134,148,145,163,167,IESE Cities in Motion Index 2020
+Belo Horizonte,Brazil,156,159,141,157,109,154,159,163,149,121,IESE Cities in Motion Index 2020
+Salvador,Brazil,157,157,137,159,94,153,145,136,162,160,IESE Cities in Motion Index 2020
+Guatemala City,Guatemala,158,145,160,149,127,138,149,133,165,164,IESE Cities in Motion Index 2020
+Novosibirsk,Russia,159,172,118,137,158,128,89,167,144,133,IESE Cities in Motion Index 2020
+Manama,Bahrain,160,104,157,46,167,168,165,134,120,141,IESE Cities in Motion Index 2020
+Mumbai,India,161,94,162,161,164,137,102,123,156,168,IESE Cities in Motion Index 2020
+Delhi,India,162,77,159,168,170,110,161,85,160,102,IESE Cities in Motion Index 2020
+Casablanca,Morocco,163,128,166,144,156,169,167,155,85,134,IESE Cities in Motion Index 2020
+Guayaquil,Ecuador,164,165,154,95,124,170,164,152,161,150,IESE Cities in Motion Index 2020
+Manila,Philippines,165,161,147,158,145,165,154,99,147,171,IESE Cities in Motion Index 2020
+Rabat,Morocco,166,134,174,121,151,163,173,170,112,145,IESE Cities in Motion Index 2020
+Riyadh,Saudi Arabia,167,100,165,102,173,86,172,156,80,161,IESE Cities in Motion Index 2020
+Cairo,Egypt,168,130,143,170,160,167,143,157,158,170,IESE Cities in Motion Index 2020
+Kolkata,India,169,114,163,166,157,156,136,171,168,172,IESE Cities in Motion Index 2020
+Douala,Cameroon,170,170,168,133,47,173,168,172,173,163,IESE Cities in Motion Index 2020
+Lagos,Nigeria,171,141,170,169,163,157,133,173,174,166,IESE Cities in Motion Index 2020
+Lahore,Pakistan,172,136,173,173,171,171,174,168,171,131,IESE Cities in Motion Index 2020
+Karachi,Pakistan,173,106,171,163,174,174,171,174,170,153,IESE Cities in Motion Index 2020
+Caracas,Venezuela,174,174,119,174,101,162,146,132,172,130,IESE Cities in Motion Index 2020
